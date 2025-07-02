@@ -35,13 +35,4 @@ A simple RESTful To-Do List application built using **Spring Boot**, **MySQL**, 
 - IDE (IntelliJ / Eclipse)
 - Postman (optional)
 
----
-
-## ⚙️ Setup Instructions
-
-### 🔧 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/todo-list-springboot.git
-cd todo-list-springboot
 
